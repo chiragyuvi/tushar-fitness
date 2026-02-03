@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --color-gold: #D4AF37;
+  --color-darkest: #0A0A0A;
+  --color-card: #161616;
+}
+
+:root {
+  background-color: #0A0A0A;
+  color: white;
+}
